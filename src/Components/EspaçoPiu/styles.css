@@ -1,0 +1,54 @@
+#espaço_de_piu{
+    background-color: white;
+    width: 478px;
+    height: 270px;
+    position: absolute;
+    left: 435px;
+    top: 193px;
+    border-radius: 10px;
+}
+
+#botão_fecha{
+    color: rgb(255, 230, 0);
+    width: 478px;
+    height: 30px;
+    position: absolute;
+    left: 0px;
+    top: 10px;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.2);
+}
+
+#campo_post{
+    position: absolute;
+    left: 15px;
+    width: 20px;
+    height: 20px;
+}
+
+#campo_post form{
+width: 478px;
+height: 230px;
+position: absolute;
+left: 0px;
+top: 40px;
+}
+
+#campo_post form input{
+width: 465px;
+height: 150px;
+}
+
+#espaço_de_piu #Piu_button{
+width: 120px;
+height: 34px;
+position: absolute;
+right: 5px;
+bottom: 10px;
+background: rgb(255, 230, 0);
+border-radius: 40px;
+font-family: "Roboto Slab";
+font-weight: bold;
+font-size: 18px;
+color: rgb(255, 255, 255);
+text-align: center;
+}
